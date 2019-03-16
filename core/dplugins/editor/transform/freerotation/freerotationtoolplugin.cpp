@@ -1,6 +1,6 @@
 /* ============================================================
  *
- * This file is a part of digiKam project
+ * This file is a part of the digiKam project
  * https://www.digikam.org
  *
  * Date        : 2018-07-30
