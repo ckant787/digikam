@@ -68,8 +68,8 @@ QString TimeAdjustPlugin::description() const
 
 QString TimeAdjustPlugin::details() const
 {
-    return i18n("<p>This tool permit to adjust date time-stamp of items in batch.</p>"
-                "<p>Many source of original time-stamp can be selected from original items, or a from a common file.</p>"
+    return i18n("<p>This tool permits to adjust date time-stamp of items in batch.</p>"
+                "<p>Many source of original time-stamp can be selected from original items, or from a common file.</p>"
                 "<p>Many metadata time-stamp can be adjusted or left untouched. The adjustment can be an offset of time or a specific date.</p>");
 }
 
