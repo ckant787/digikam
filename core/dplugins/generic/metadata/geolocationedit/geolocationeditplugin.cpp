@@ -63,7 +63,7 @@ QIcon GeolocationEditPlugin::icon() const
 
 QString GeolocationEditPlugin::description() const
 {
-    return i18n("A tool to edit items geolocation");
+    return i18n("A tool to edit items Geolocation");
 }
 
 QString GeolocationEditPlugin::details() const
